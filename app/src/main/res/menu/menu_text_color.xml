@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="TEXT COLOR"
+        android:id="@+id/mnu_txtColor"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item android:id="@+id/mnu_Red"
+                android:title="RED"/>
+            <item android:id="@+id/mnu_Green"
+                android:title="Green"/>
+            <item android:id="@+id/mnu_Blue"
+                android:title="Blue"/>
+
+        </menu>
+        </item>
+
+
+</menu>
